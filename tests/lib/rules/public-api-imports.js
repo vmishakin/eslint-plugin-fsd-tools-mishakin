@@ -8,7 +8,7 @@
 // Requirements
 //------------------------------------------------------------------------------
 
-const rule = require("../../../lib/rules/pena-blog-public-api-imports"),
+const rule = require("../../../lib/rules/public-api-imports"),
   RuleTester = require("eslint").RuleTester;
 
 
@@ -25,7 +25,7 @@ const aliasOptions = [
 const ruleTester = new RuleTester({
   parserOptions: { ecmaVersion: 6, sourceType: 'module' }
 });
-ruleTester.run("pena-blog-public-api-imports", rule, {
+ruleTester.run("public-api-imports", rule, {
   valid: [
     {
       code: "import { addCommentFormActions, addCommentFormReducer } from '../../model/slices/addCommentFormSlice'",

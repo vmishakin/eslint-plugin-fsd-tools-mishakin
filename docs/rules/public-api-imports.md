@@ -1,4 +1,4 @@
-# FSD slice public api checker (`pena-blog-public-api-imports`)
+# FSD slice public api checker (`public-api-imports`)
 
 Please describe the origin of the rule here.
 
