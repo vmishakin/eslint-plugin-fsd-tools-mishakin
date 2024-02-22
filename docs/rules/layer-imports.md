@@ -1,4 +1,6 @@
-# fsd layer restriction (`layer-imports`)
+# Fsd layer restriction (`fsd-tools-mishakin/layer-imports`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 

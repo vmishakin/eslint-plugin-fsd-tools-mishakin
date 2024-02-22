@@ -1,4 +1,6 @@
-# feature sliced relative path checker (`path-checker`)
+# Feature sliced relative path checker (`fsd-tools-mishakin/path-checker`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 

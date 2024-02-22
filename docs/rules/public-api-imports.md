@@ -1,4 +1,6 @@
-# FSD slice public api checker (`public-api-imports`)
+# FSD slice public api checker (`fsd-tools-mishakin/public-api-imports`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 
