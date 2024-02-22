@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin-pena-blog",
+  "name": "eslint-plugin-fsd-tools-mishakin",
   "version": "0.0.2",
-  "description": "eslint plugin for pena-blog",
+  "description": "eslint plugin for vmishakin/blog-with-fsd",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "dirtyman",
+  "author": "vmishakin",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "scripts": {
