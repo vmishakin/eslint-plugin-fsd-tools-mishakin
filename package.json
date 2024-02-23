@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-tools-mishakin",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "eslint plugin for vmishakin/blog-with-fsd",
   "keywords": [
     "eslint",
